@@ -1,0 +1,29 @@
+/cloud_security/04云安全检测.rar
+/cloud_security/04云安全检测/data/
+/cloud_security/04云安全检测/baseline.csv
+/cloud_security/04云安全检测/security_submit.csv
+/cloud_security/04云安全检测/security_test.zip
+/cloud_security/04云安全检测/security_train.zip
+/O2O/03O2O优惠券.rar
+/O2O/03O2O优惠券/data/ccf_offline_stage1_test_revised.csv
+/O2O/03O2O优惠券/data/ccf_offline_stage1_train.csv
+/O2O/03O2O优惠券/data/ccf_online_stage1_train.csv
+/O2O/03O2O优惠券/feature/
+/tianmao/02天猫重复购/data_format1/
+/zhengqi/01蒸汽量预测.rar
+/tianmao/02天猫重复购/02天猫重复购.rar
+/tianmao/02天猫重复购/data_format1.zip
+/tianmao/02天猫重复购/data_format2.zip
+/tianmao/data/
+/zhengqi/01蒸汽量预测/01赛题分析.ipynb
+/zhengqi/01蒸汽量预测/02数据探索.ipynb
+/zhengqi/01蒸汽量预测/03特征工程.ipynb
+/zhengqi/01蒸汽量预测/04模型训练.ipynb
+/zhengqi/01蒸汽量预测/05模型验证.ipynb
+/zhengqi/01蒸汽量预测/06 特征优化.ipynb
+/zhengqi/01蒸汽量预测/07 模型融合.ipynb
+/zhengqi/01蒸汽量预测/outliers.png
+/zhengqi/01蒸汽量预测/zhengqi_test.txt
+/zhengqi/01蒸汽量预测/zhengqi_train.txt
+*.iml
+.idea
